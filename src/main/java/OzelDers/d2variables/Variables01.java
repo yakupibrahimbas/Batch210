@@ -1,4 +1,4 @@
-package d2variables;
+package OzelDers.d2variables;
 
 import java.util.SortedMap;
 
